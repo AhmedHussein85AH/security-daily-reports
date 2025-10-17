@@ -472,7 +472,7 @@ const IncidentReportForm: React.FC<IncidentReportFormProps> = ({ onSubmit }) => 
               </h3>
 
               <div className="space-y-4">
-                {responsibility.map((entry, index) => (
+                {responsibility.map((entry) => (
                   <div key={entry.id} className="p-4 bg-slate-50 rounded-lg space-y-3">
                     <div className="flex items-center space-x-4">
                       <div className="flex-1">
