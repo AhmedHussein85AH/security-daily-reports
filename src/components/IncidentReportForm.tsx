@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import { IncidentData, ResponsibilityEntry } from '../types/incident'
 // Icons will be defined as inline SVGs
 
