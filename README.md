@@ -1,6 +1,7 @@
 # Security Daily Reports
 
 A comprehensive Security Incident Management System designed for the Security Security Department. This application provides a modern, user-friendly interface for creating, managing, and analyzing security incident reports.
+<img width="1158" height="822" alt="image" src="https://github.com/user-attachments/assets/8633c274-13d7-44cb-80a7-10b45bb75e1d" />
 
 ## 🚀 Features
 
@@ -175,3 +176,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Use!** 🚀
 
 *Made with ❤️ by Ahmed Hussein*
+
