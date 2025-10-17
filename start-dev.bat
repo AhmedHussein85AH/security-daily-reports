@@ -1,0 +1,6 @@
+@echo off
+echo Starting Security Daily Reports Development Server...
+echo.
+cd /d "%~dp0"
+npm run dev
+pause
